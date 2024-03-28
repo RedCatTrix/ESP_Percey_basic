@@ -18,8 +18,10 @@ Platforms: ESP8266, ESP32
 Latest update: 11.03.2024
 Author's GitHub: https://github.com/RedCatTrix
 
-Percey flusher guide and description: 
+Percey flusher guide and description:
+
 (ENG) https://drive.google.com/file/d/1GUO4CxzXS69auFtKdyNXuGJjHMAfbz1F/view
+
 (RUS) https://drive.google.com/file/d/1CV3mvw3wF0RgGhDVKfFtLYkZRFTRWWTS/view
 
 
