@@ -13,10 +13,8 @@ The sketch implemented on synchronous communication with Telegram server and bas
 Simple communication diagram:
 [Percey flusher] <----UART----> [ESP8266/ESP32] <----Internet----> [Telegram chat]
 
-
-Platforms: ESP8266, ESP32
-Latest update: 11.03.2024
-Author's GitHub: https://github.com/RedCatTrix
+Platform: ESP8266, ESP32
+Latest update: 28.03.2024
 
 Percey flusher guide and description:
 
